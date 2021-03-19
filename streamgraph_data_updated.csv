@@ -1,0 +1,226 @@
+topology,date_time,ngram count,start_of_week
+Backlash/Resistance,17,587,2020-04-27
+Backlash/Resistance,18,9945,2020-05-04
+Backlash/Resistance,19,499,2020-05-11
+Backlash/Resistance,20,678,2020-05-18
+Backlash/Resistance,21,168115,2020-05-25
+Backlash/Resistance,22,175911,2020-06-01
+Backlash/Resistance,23,182575,2020-06-08
+Backlash/Resistance,24,157586,2020-06-15
+Backlash/Resistance,25,118627,2020-06-22
+Backlash/Resistance,26,176624,2020-06-29
+Backlash/Resistance,27,72641,2020-07-06
+Backlash/Resistance,28,35038,2020-07-13
+Backlash/Resistance,29,66455,2020-07-20
+Backlash/Resistance,30,47971,2020-07-27
+Backlash/Resistance,31,32149,2020-08-03
+Backlash/Resistance,32,40598,2020-08-10
+Backlash/Resistance,33,52612,2020-08-17
+Backlash/Resistance,34,169055,2020-08-24
+Backlash/Resistance,35,38213,2020-08-31
+Black Empowerment,17,777,2020-04-27
+Black Empowerment,18,2939,2020-05-04
+Black Empowerment,19,2403,2020-05-11
+Black Empowerment,20,2776,2020-05-18
+Black Empowerment,21,47720,2020-05-25
+Black Empowerment,22,230777,2020-06-01
+Black Empowerment,23,68807,2020-06-08
+Black Empowerment,24,115885,2020-06-15
+Black Empowerment,25,24841,2020-06-22
+Black Empowerment,26,16098,2020-06-29
+Black Empowerment,27,13165,2020-07-06
+Black Empowerment,28,5786,2020-07-13
+Black Empowerment,29,9774,2020-07-20
+Black Empowerment,30,9793,2020-07-27
+Black Empowerment,31,7150,2020-08-03
+Black Empowerment,32,6466,2020-08-10
+Black Empowerment,33,11120,2020-08-17
+Black Empowerment,34,17630,2020-08-24
+Black Empowerment,35,2046,2020-08-31
+Economic Collective Action,17,1135,2020-04-27
+Economic Collective Action,18,3790,2020-05-04
+Economic Collective Action,19,3409,2020-05-11
+Economic Collective Action,20,3325,2020-05-18
+Economic Collective Action,21,263651,2020-05-25
+Economic Collective Action,22,978153,2020-06-01
+Economic Collective Action,23,687379,2020-06-08
+Economic Collective Action,24,115358,2020-06-15
+Economic Collective Action,25,69239,2020-06-22
+Economic Collective Action,26,38649,2020-06-29
+Economic Collective Action,27,31002,2020-07-06
+Economic Collective Action,28,8322,2020-07-13
+Economic Collective Action,29,15065,2020-07-20
+Economic Collective Action,30,12135,2020-07-27
+Economic Collective Action,31,12965,2020-08-03
+Economic Collective Action,32,18730,2020-08-10
+Economic Collective Action,33,10152,2020-08-17
+Economic Collective Action,34,81961,2020-08-24
+Economic Collective Action,35,4338,2020-08-31
+Emotion/Empathy/Solidarity,17,16979,2020-04-27
+Emotion/Empathy/Solidarity,18,27611,2020-05-04
+Emotion/Empathy/Solidarity,19,7839,2020-05-11
+Emotion/Empathy/Solidarity,20,12194,2020-05-18
+Emotion/Empathy/Solidarity,21,3376654,2020-05-25
+Emotion/Empathy/Solidarity,22,4124120,2020-06-01
+Emotion/Empathy/Solidarity,23,2733186,2020-06-08
+Emotion/Empathy/Solidarity,24,1031858,2020-06-15
+Emotion/Empathy/Solidarity,25,640742,2020-06-22
+Emotion/Empathy/Solidarity,26,489919,2020-06-29
+Emotion/Empathy/Solidarity,27,459376,2020-07-06
+Emotion/Empathy/Solidarity,28,182334,2020-07-13
+Emotion/Empathy/Solidarity,29,294368,2020-07-20
+Emotion/Empathy/Solidarity,30,304947,2020-07-27
+Emotion/Empathy/Solidarity,31,207854,2020-08-03
+Emotion/Empathy/Solidarity,32,148895,2020-08-10
+Emotion/Empathy/Solidarity,33,209773,2020-08-17
+Emotion/Empathy/Solidarity,34,692162,2020-08-24
+Emotion/Empathy/Solidarity,35,104873,2020-08-31
+Global Protests/Allied Movements,17,20765,2020-04-27
+Global Protests/Allied Movements,18,25563,2020-05-04
+Global Protests/Allied Movements,19,7218,2020-05-11
+Global Protests/Allied Movements,20,5147,2020-05-18
+Global Protests/Allied Movements,21,3319333,2020-05-25
+Global Protests/Allied Movements,22,5189252,2020-06-01
+Global Protests/Allied Movements,23,4993375,2020-06-08
+Global Protests/Allied Movements,24,1762549,2020-06-15
+Global Protests/Allied Movements,25,1361655,2020-06-22
+Global Protests/Allied Movements,26,2089925,2020-06-29
+Global Protests/Allied Movements,27,799387,2020-07-06
+Global Protests/Allied Movements,28,368748,2020-07-13
+Global Protests/Allied Movements,29,926005,2020-07-20
+Global Protests/Allied Movements,30,554406,2020-07-27
+Global Protests/Allied Movements,31,359381,2020-08-03
+Global Protests/Allied Movements,32,426620,2020-08-10
+Global Protests/Allied Movements,33,387757,2020-08-17
+Global Protests/Allied Movements,34,1352896,2020-08-24
+Global Protests/Allied Movements,35,168645,2020-08-31
+Justice/Accountability,17,686,2020-04-27
+Justice/Accountability,18,53615,2020-05-04
+Justice/Accountability,19,4540,2020-05-11
+Justice/Accountability,20,1484,2020-05-18
+Justice/Accountability,21,1264927,2020-05-25
+Justice/Accountability,22,1634428,2020-06-01
+Justice/Accountability,23,603946,2020-06-08
+Justice/Accountability,24,315074,2020-06-15
+Justice/Accountability,25,403658,2020-06-22
+Justice/Accountability,26,425025,2020-06-29
+Justice/Accountability,27,186985,2020-07-06
+Justice/Accountability,28,108683,2020-07-13
+Justice/Accountability,29,147746,2020-07-20
+Justice/Accountability,30,127230,2020-07-27
+Justice/Accountability,31,91261,2020-08-03
+Justice/Accountability,32,60996,2020-08-10
+Justice/Accountability,33,70879,2020-08-17
+Justice/Accountability,34,193336,2020-08-24
+Justice/Accountability,35,29872,2020-08-31
+Police Reform,18,3,2020-05-04
+Police Reform,21,112888,2020-05-25
+Police Reform,22,24966,2020-06-01
+Police Reform,23,35966,2020-06-08
+Police Reform,24,22641,2020-06-15
+Police Reform,25,15756,2020-06-22
+Police Reform,26,9681,2020-06-29
+Police Reform,27,12496,2020-07-06
+Police Reform,28,7590,2020-07-13
+Police Reform,29,5253,2020-07-20
+Police Reform,30,4681,2020-07-27
+Police Reform,31,6738,2020-08-03
+Police Reform,32,5324,2020-08-10
+Police Reform,33,4045,2020-08-17
+Police Reform,34,17260,2020-08-24
+Police Reform,35,1309,2020-08-31
+Police/Police Violence,17,4719,2020-04-27
+Police/Police Violence,18,112865,2020-05-04
+Police/Police Violence,19,13743,2020-05-11
+Police/Police Violence,20,4317,2020-05-18
+Police/Police Violence,21,3220460,2020-05-25
+Police/Police Violence,22,2105189,2020-06-01
+Police/Police Violence,23,1669085,2020-06-08
+Police/Police Violence,24,942816,2020-06-15
+Police/Police Violence,25,676624,2020-06-22
+Police/Police Violence,26,597818,2020-06-29
+Police/Police Violence,27,360642,2020-07-06
+Police/Police Violence,28,253431,2020-07-13
+Police/Police Violence,29,439456,2020-07-20
+Police/Police Violence,30,202703,2020-07-27
+Police/Police Violence,31,151893,2020-08-03
+Police/Police Violence,32,186957,2020-08-10
+Police/Police Violence,33,179289,2020-08-17
+Police/Police Violence,34,1079558,2020-08-24
+Police/Police Violence,35,119469,2020-08-31
+Politcal Change,17,126,2020-04-27
+Politcal Change,18,1347,2020-05-04
+Politcal Change,19,287,2020-05-11
+Politcal Change,20,443,2020-05-18
+Politcal Change,21,223619,2020-05-25
+Politcal Change,22,190821,2020-06-01
+Politcal Change,23,104524,2020-06-08
+Politcal Change,24,70148,2020-06-15
+Politcal Change,25,36521,2020-06-22
+Politcal Change,26,24175,2020-06-29
+Politcal Change,27,17534,2020-07-06
+Politcal Change,28,7906,2020-07-13
+Politcal Change,29,15833,2020-07-20
+Politcal Change,30,11611,2020-07-27
+Politcal Change,31,11009,2020-08-03
+Politcal Change,32,12074,2020-08-10
+Politcal Change,33,7946,2020-08-17
+Politcal Change,34,74437,2020-08-24
+Politcal Change,35,6159,2020-08-31
+Political Change,17,15708,2020-04-27
+Political Change,18,1528,2020-05-04
+Political Change,19,312,2020-05-11
+Political Change,20,420,2020-05-18
+Political Change,21,317819,2020-05-25
+Political Change,22,209362,2020-06-01
+Political Change,23,144538,2020-06-08
+Political Change,24,97092,2020-06-15
+Political Change,25,43543,2020-06-22
+Political Change,26,26542,2020-06-29
+Political Change,27,35756,2020-07-06
+Political Change,28,21661,2020-07-13
+Political Change,29,97193,2020-07-20
+Political Change,30,48090,2020-07-27
+Political Change,31,14721,2020-08-03
+Political Change,32,19393,2020-08-10
+Political Change,33,13229,2020-08-17
+Political Change,34,41326,2020-08-24
+Political Change,35,4606,2020-08-31
+Racism/Inequality,17,3255,2020-04-27
+Racism/Inequality,18,138207,2020-05-04
+Racism/Inequality,19,11183,2020-05-11
+Racism/Inequality,20,28915,2020-05-18
+Racism/Inequality,21,2546970,2020-05-25
+Racism/Inequality,22,3038815,2020-06-01
+Racism/Inequality,23,2009089,2020-06-08
+Racism/Inequality,24,1231312,2020-06-15
+Racism/Inequality,25,678964,2020-06-22
+Racism/Inequality,26,546303,2020-06-29
+Racism/Inequality,27,449662,2020-07-06
+Racism/Inequality,28,164655,2020-07-13
+Racism/Inequality,29,234146,2020-07-20
+Racism/Inequality,30,275033,2020-07-27
+Racism/Inequality,31,164024,2020-08-03
+Racism/Inequality,32,197459,2020-08-10
+Racism/Inequality,33,180772,2020-08-17
+Racism/Inequality,34,645886,2020-08-24
+Racism/Inequality,35,81888,2020-08-31
+Victim Focused,17,598,2020-04-27
+Victim Focused,18,146054,2020-05-04
+Victim Focused,19,18771,2020-05-11
+Victim Focused,20,3906,2020-05-18
+Victim Focused,21,4260116,2020-05-25
+Victim Focused,22,1572618,2020-06-01
+Victim Focused,23,960648,2020-06-08
+Victim Focused,24,571228,2020-06-15
+Victim Focused,25,326915,2020-06-22
+Victim Focused,26,267815,2020-06-29
+Victim Focused,27,193752,2020-07-06
+Victim Focused,28,89466,2020-07-13
+Victim Focused,29,334912,2020-07-20
+Victim Focused,30,76653,2020-07-27
+Victim Focused,31,95810,2020-08-03
+Victim Focused,32,46237,2020-08-10
+Victim Focused,33,50576,2020-08-17
+Victim Focused,34,741937,2020-08-24
+Victim Focused,35,30012,2020-08-31
